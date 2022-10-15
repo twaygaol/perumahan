@@ -1,0 +1,31 @@
+Assalamu'alaykum,
+
+Kali ini saya akan berbagi konten source code template Front-end & Back-end Website Company Profile, yang dibuat dengan menggunakan PHP dan MySQL. belajar dari beberapa referensi ilmu pemograman baik buku maupun di internet.
+
+
+Adapun cara instalasinya sbb :
+1.  Install web server : disini saya menggunakan Xampp v3.2.2, PHP Version 7.2.0
+2.  Jika instalasi sudah selesai, copykan folder indahnyaberbagi ke dalam folder C:\xampp\htdocs\
+3.  Jalankan Apache dan MySQL service 
+4.  Buka browser dan akses ke alamat : localhost/phpmyadmin/
+5.  Buat database baru dengan nama "db_companyprofile"
+6.  Pilih Import dan browse file "db_companyprofile.sql" yang berada dalam folder indahnyaberbagi
+7.  Jika Sukses dan berhasil, maka website company profile dapat diakses dan dipergunakan.
+8.  Untuk mengujinya silahkan test akses front-end website ke alamat : localhost/indahnyaberbagi
+9.  Untuk halaman back-end (admin panel) bisa akses ke alamat : localhost/indahnyaberbagi/confpanel
+    User ID  : admin 
+    Password : admin
+10. Finish
+
+
+Semoga Bermanfaat
+Terima kasih
+
+Wassalamu'alaykum
+
+=======================================
+Saran dan Masukan :
+permadiopa@gmail.com
+www.indahnyaberbagionline.wordpress.com
+=======================================
+

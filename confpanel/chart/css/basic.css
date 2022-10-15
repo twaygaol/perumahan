@@ -1,0 +1,10 @@
+/* page styles */
+body { font-family: "Segoe UI", Frutiger,Tahoma,Helvetica,"Helvetica Neue", Arial, sans-serif; }
+.tbl_statistik{  border-collapse: collapse; }
+.td_statistik, .th_statistik { 
+   text-align: center; 
+   border: 1px solid #ddd; 
+   padding:2px 5px; 
+   }
+   
+.caption_statistik {margin: 0 0 .5em; font-weight: bold; }
